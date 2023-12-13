@@ -9,7 +9,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 
 ---
 
-Confira o conteúdo completo e comece a aplicar estes conceitos em sua jornada educacional. 
+### 👀 Confira os prompts e comece a aplicar estes conceitos em sua jornada educacional. 
 #IAsgenerativas 
 #MatemáticaAplicada 
 #EducaçãoInovadora
