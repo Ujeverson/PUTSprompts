@@ -22,3 +22,6 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 # Artigos
 - [ANÁLISE DE DADOS E O PODER DA MATEMÁTICA APLICADA](https://web.dio.me/articles/analise-de-dados-e-o-poder-da-matematica-aplicada?back=%2Farticles&open-modal=true&page=1&order=oldest)
 
+---
+
+# Prompts
