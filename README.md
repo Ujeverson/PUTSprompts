@@ -16,7 +16,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 
 [Compartilhe o repositório](https://github.com/Ujeverson/promptsForTeachers)
 
-### Prof. Ms. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
+### Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
 ---
 
 # Artigos
