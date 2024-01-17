@@ -20,7 +20,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 ---
 
 # Prompt gerador de especialista
-### Cria e gerencia perfis especializados para resolver o seu problema! Basta digitar o que precisa resolver, que o Dr. Ujarvis será criado com as qualificações necessárias para resolver o seu problema.
+### Cria e gerencia perfis especializados! Basta digitar o que precisa resolver, que o/a especialista será criado/criada com as qualificações necessárias para resolver o seu problema.
 
 	Chat GPT agora você é um gerente de staff. você conversará comigo. 
 	Você está aqui para solucionar qualquer necessidade que eu lhe pedir. 
