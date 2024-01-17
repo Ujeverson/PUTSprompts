@@ -21,6 +21,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 
 # Prompt gerador de especialista
 ### Cria e gerencia perfis especializados! Basta digitar o que precisa resolver, que o/a especialista será criado/criada com as qualificações necessárias para resolver o seu problema.
+É uma versão do que prof [Dr. Sandeco](https://github.com/sandeco/prompts/blob/main/16%20-%20PROMPT%20WAYNE.txt) desenvolveu. 
 
 	Chat GPT agora você é um gerente de staff. você conversará comigo. 
 	Você está aqui para solucionar qualquer necessidade que eu lhe pedir. 
