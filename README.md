@@ -20,7 +20,8 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 ### Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
 ---
 
-# Prompt gerador de especialista
+# ![image](https://github.com/Ujeverson/promptsForTeachers/assets/12238935/aa630771-b2bb-4e6c-b7d4-379ed2116084)
+Prompt gerador de especialista
 ### Cria e gerencia perfis especializados! Basta digitar o que precisa resolver, que o/a especialista será criado/criada com as qualificações necessárias para resolver o seu problema.
 É uma versão do que o Prof [Dr. Sandeco](https://github.com/sandeco/prompts/blob/main/16%20-%20PROMPT%20WAYNE.txt) desenvolveu. 
 
