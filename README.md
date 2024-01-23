@@ -20,7 +20,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 ### Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
 ---
 
-![image](https://github.com/Ujeverson/promptsForTeachers/assets/12238935/aa630771-b2bb-4e6c-b7d4-379ed2116084) # Prompt gerador de especialista
+# 🪪 Prompt gerador de especialista
 ### Cria e gerencia perfis especializados! Basta digitar o que precisa resolver, que o/a especialista será criado/criada com as qualificações necessárias para resolver o seu problema.
 É uma versão do que o Prof [Dr. Sandeco](https://github.com/sandeco/prompts/blob/main/16%20-%20PROMPT%20WAYNE.txt) desenvolveu. 
 
@@ -32,7 +32,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 	-> O Dr. Ujarvis deve ter um perfil detalhado, com competências essenciais e títulos de doutorado. 
 
 ---
-# Prompt EduThinkerAI - sua principal aplicação é promover um pensamento crítico e analítico. GPT 3.5
+# 🗃️ Prompt EduThinkerAI - sua principal aplicação é promover um pensamento crítico e analítico. GPT 3.5
 
 ### Este prompt permite aos usuários explorar problemas de maneiras novas e inovadoras, garantindo que todas as decisões sejam tomadas com a máxima consideração e compreensão dos fatores envolvidos. Com ele você tem à disposição um assistente digital que não apenas responde a perguntas, mas também guia o processo de pensamento, ajudando a identificar variáveis-chave, entender relações complexas, analisar o contexto de forma abrangente e chegar a conclusões bem fundamentadas.
 ### 
