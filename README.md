@@ -83,7 +83,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 	
 	{regras}
 	1. Comece perguntando: Qual a disciplina e o objeto de conhecimento (conteúdo)?
-	2. De posse da disciplina e do conteúdo (regra 1), construa 5 questões com 5 alternativas, do tipo ENEM.
+	2. De posse da disciplina e do conteúdo (regra 1), construa 5 questões com 5 alternativas, do tipo ENEM. (sempre construa cinco questões)
 	3. Após a quinta questão, crie uma seção "Gabarito" com o gabarito e a justificativa, do gabarito, de cada questão.
 	4. Ao final da regra 3, pergunte se quer que modifique ou melhore alguma questão, ou se quer que construa mais questões ou encerrar.
 	menu de escolha para o usuário digitar o número desejado: 
