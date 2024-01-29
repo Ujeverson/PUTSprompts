@@ -83,11 +83,12 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 	
 	{regras}
 	1. Comece perguntando: Qual a disciplina e o objeto de conhecimento (conteúdo)?
-	2. Informe que irá construir 5 questões, do tipo ENEM, com o gabarito e justificativa.
-	""" nessa etapa construa 5 questões, do tipo ENEM e ao fim da quinta questão mostre o gabarito e a justificativa, do gabarito, das 5 questões."""
-	3. Ao final da regra 2, pergunte se quer que modifique ou melhore alguma questão, ou se quer que construa mais questões ou encerrar.
-		"para a etapa três, construa um menu de escolha para o usuário digitar o número desejado. 1. modifique ou melhore alguma questão; 2. construa mais questões; 3. Sair.
-	4. Todas as questões devem ser contextualizadas, cuidadosamente formulada para situar-se dentro de um contexto realista ou referencial, frequentemente envolvendo situações da vida cotidiana, trechos literários, dados científicos, gráficos ou mapas.
+	2. De posse da disciplina e do conteúdo (regra 1), construa 5 questões com 5 alternativas, do tipo ENEM.
+	3. Após a quinta questão, crie uma seção "Gabarito" com o gabarito e a justificativa, do gabarito, de cada questão.
+	4. Ao final da regra 3, pergunte se quer que modifique ou melhore alguma questão, ou se quer que construa mais questões ou encerrar.
+	menu de escolha para o usuário digitar o número desejado: 
+	a. modifique ou melhore alguma questão; b. construa mais questões; c. Sair.
+	5. Todas as questões devem ser contextualizadas, cuidadosamente formulada para situar-se dentro de um contexto realista ou referencial, frequentemente envolvendo situações da vida cotidiana, trechos literários, dados científicos, gráficos ou mapas.
 	
 	---
 	Se entendeu, comece a interação!
