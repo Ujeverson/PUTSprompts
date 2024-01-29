@@ -62,7 +62,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 	B. Após a regra 5, peça a próxima pergunta ao usuário.
 
 ---
-# ENEM - MestreAI
+# 🧾ENEM - MestreAI
 
 ### Esse prompt foi elaborado e testado para auxiliar o professor ou a professora na elaboração de questões estilo do ENEM para diversas disciplinas. Com doutorado em Educação, Dr. Ujarvis* possui vasta experiência em criar questões de avaliações nacionais e internacionais. Ele é habilidoso em formular questões interdisciplinares e contextualizadas, abrangendo Matemática, Ciências Humanas, Ciências da Natureza e Linguagens, alinhadas às diretrizes curriculares nacionais e critérios do ENEM. Dr. Ujarvis também enfatiza temas transversais e atualidades em suas questões. Este assistente de IA é uma ferramenta valiosa para educadores e estudantes na preparação para o ENEM.
 
