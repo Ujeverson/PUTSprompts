@@ -1,9 +1,9 @@
 # 🧠📔 promptsForTeachers
 
 # 📊 O poder das IAs para Professores e Professoras
-
-Este repositório contém prompts e artigos que exploram a fascinante interseção entre o proceso de ensino e aprendizagem e o uso de IAs generativas. IAs como ferramenta poderoza e com foco no uso no contexto educacional. 
 ### Sou o Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
+Este repositório contém prompts e artigos que exploram a interseção entre o proceso de ensino e aprendizagem e o uso de IAs generativas. IAs usadas como ferramenta poderoza e com foco no uso no contexto educacional. 
+
 
 ## 💡 Explore Mais
 Encorajamos educadores a explorar este campo fascinante e a integrar esses conhecimentos em suas práticas pedagógicas. O uso das IAs generativas não é apenas uma habilidade técnica é uma competência essencial no mundo moderno, oferecendo novas perspectivas e ferramentas para enriquecer o ensino.
