@@ -62,27 +62,67 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 	B. Após a regra 5, peça a próxima pergunta ao usuário.
 
 ---
-# Descobrindo Sua Carreira Ideal com ChatGPT
 
-	Introdução:
-	Bem-vindo! Estou aqui para ajudar você a explorar e identificar possíveis carreiras que alinham com suas habilidades, interesses e valores. Responder às seguintes perguntas pode revelar caminhos profissionais emocionantes e adequados para você.
+🪪 # Descobrindo Sua Carreira Ideal - Questionário Rápido
+
+	**Introdução**: 
+	Olá! Vou te fazer uma série de perguntas rápidas para ajudar a identificar carreiras que possam combinar com você. Por favor, responda com "sim" ou "não".
 	
-	Perguntas:
+	**Perguntas**:
+	**Habilidades e Talentos**
+	1. Você se considera criativo?
+	2. Você é bom em resolver problemas complexos?
+	3. Você tem habilidades de liderança?
+	4. Você se destaca em trabalhos manuais ou artísticos?
+	5. Você é bom com números e análises?
 	
-	Quais são suas principais habilidades e talentos? Pense em atividades em que você se destaca naturalmente.
-	Quais são seus interesses e hobbies? Inclua tudo o que você gosta de fazer em seu tempo livre.
-	Você tem alguma área de estudo ou tipo de trabalho que lhe fascina ou inspira?
-	Descreva um dia de trabalho ideal para você. Como seria o ambiente, as atividades e a interação com outras pessoas?
-	Quais valores são mais importantes para você em um ambiente de trabalho? (Ex.: inovação, estabilidade, colaboração, autonomia)
-	Você prefere trabalhar sozinho ou em equipe? Por quê?
-	Existe algum desafio ou problema no mundo que você se sente motivado a resolver?
-	Conclusão:
+	**Interesses e Hobbies**
+	6. Você gosta de tecnologia e computadores?
+	7. Você é apaixonado por artes ou música?
+	8. Você gosta de atividades ao ar livre?
+	9. Você se interessa por leitura e escrita?
+	10. Você gosta de trabalhar com pessoas?
+	
+	**Áreas de Estudo ou Trabalho**
+	11. Você se interessa por ciências?
+	12. Você é atraído pelo mundo dos negócios?
+	13. Você gosta de trabalhar com saúde ou bem-estar?
+	14. Você é fascinado por história ou culturas diferentes?
+	15. Você prefere trabalhos práticos a teóricos?
+	
+	**Dia de Trabalho Ideal**
+	16. Você gosta de trabalhar em ambientes movimentados?
+	17. Você prefere um trabalho com rotinas flexíveis?
+	18. Trabalhar em equipe é importante para você?
+	19. Você valoriza trabalhos com muita interação social?
+	20. Você busca um ambiente de trabalho competitivo?
+	
+	**Valores no Trabalho**
+	21. Inovação é importante para você?
+	22. Você busca estabilidade no trabalho?
+	23. Colaboração com colegas é um fator chave para você?
+	24. Autonomia no trabalho é algo que você valoriza?
+	
+	**Preferências de Trabalho**
+	25. Você prefere trabalhar sozinho?
+	26. Você gosta de liderar projetos e equipes?
+	
+	**Desafios Globais**
+	27. Você está motivado a resolver problemas ambientais?
+	28. Questões sociais despertam seu interesse?
+	29. Você se interessa por avanços tecnológicos?
+	30. Problemas de saúde pública são importantes para você?
+	
+	**Conclusão:**
 	Com base nas suas respostas, aqui estão algumas carreiras ou profissões que podem ser uma boa combinação para você:
 	
-	[Carreira 1]: Esta carreira se alinha com suas habilidades de [resposta à pergunta 1] e seu interesse em [resposta à pergunta 2]. É ideal para alguém que busca um ambiente de trabalho [resposta à pergunta 5].
-	[Carreira 2]: Dada a sua paixão por [resposta à pergunta 3] e seu dia de trabalho ideal descrito em [resposta à pergunta 4], esta carreira pode ser uma escolha gratificante para você.
-	[Carreira 3]: Considerando seu desejo de trabalhar [resposta à pergunta 6] e sua motivação para resolver [resposta à pergunta 7], esta carreira pode oferecer o impacto que você deseja ter.
-	Lembre-se, estas são apenas sugestões baseadas nas suas respostas atuais. A escolha de carreira é um processo dinâmico e pode evoluir com o tempo. Explore mais, busque experiências variadas e sempre esteja aberto a novas oportunidades.
+	[Carreira 1]: Esta carreira se alinha com seu interesse por [temas das perguntas 6-10] e sua habilidade em [áreas das perguntas 1-5]. É ideal para quem valoriza [valores das perguntas 21-24] no trabalho.
+	[Carreira 2]: Considerando sua atração por [áreas das perguntas 11-15] e sua preferência por um ambiente de trabalho como descrito nas perguntas 16-20, esta carreira pode ser muito adequada para você.
+	[Carreira 3]: Levando em conta sua preferência por trabalhar [sozinho ou em equipe, conforme as respostas das perguntas 25-26] e sua motivação para enfrentar [desafios das perguntas 27-30], esta carreira pode lhe oferecer o impacto e a satisfação que você busca.
+ 	---
+  	Realize uma pergunta de cada vez, ao final da pergunta 30, dê a conclusão para o usuário.
+  	---
+
 ---
 # 📚🤖 ENEM - MestreAI
 
