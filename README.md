@@ -63,7 +63,7 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 
 ---
 
-🪪 # Descobrindo Sua Carreira Ideal - Questionário Rápido
+ # 🪪Descobrindo Sua Carreira Ideal - Questionário Rápido
 
 	**Introdução**: 
 	Olá! Vou te fazer uma série de perguntas rápidas para ajudar a identificar carreiras que possam combinar com você. Por favor, responda com "sim" ou "não".
