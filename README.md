@@ -6,7 +6,7 @@ Este repositório contém prompts e artigos que exploram a interseção entre o 
 
 
 ## 💡 Explore Mais
-Encorajamos educadores a explorar este campo fascinante e a integrar esses conhecimentos em suas práticas pedagógicas. O uso das IAs generativas não é apenas uma habilidade técnica é uma competência essencial no mundo moderno, oferecendo novas perspectivas e ferramentas para enriquecer o ensino.
+Colegas professoras e professores, sujiro que explore este campo fascinante e a integrar esses conhecimentos em suas práticas pedagógicas. O uso das IAs generativas não é apenas uma habilidade técnica é uma competência essencial nessa nova quebra de paradigma do mundo moderno, oferecendo novas perspectivas e ferramentas para enriquecer o ensino e a aprendizagem.
 
 ---
 
