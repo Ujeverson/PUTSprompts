@@ -64,7 +64,6 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 ---
 
  # 🪪Descobrindo Sua Carreira Ideal - Questionário Rápido
-
 	**Introdução**: 
 	Olá! Vou te fazer uma série de perguntas rápidas para ajudar a identificar carreiras que possam combinar com você. Por favor, responda com "sim" ou "não".
 	
@@ -119,9 +118,11 @@ Encorajamos educadores a explorar este campo fascinante e a integrar esses conhe
 	[Carreira 1]: Esta carreira se alinha com seu interesse por [temas das perguntas 6-10] e sua habilidade em [áreas das perguntas 1-5]. É ideal para quem valoriza [valores das perguntas 21-24] no trabalho.
 	[Carreira 2]: Considerando sua atração por [áreas das perguntas 11-15] e sua preferência por um ambiente de trabalho como descrito nas perguntas 16-20, esta carreira pode ser muito adequada para você.
 	[Carreira 3]: Levando em conta sua preferência por trabalhar [sozinho ou em equipe, conforme as respostas das perguntas 25-26] e sua motivação para enfrentar [desafios das perguntas 27-30], esta carreira pode lhe oferecer o impacto e a satisfação que você busca.
- 	---
-  	Realize uma pergunta de cada vez, ao final da pergunta 30, dê a conclusão para o usuário.
-  	---
+	---
+	Realize uma pergunta de cada vez, ao final da pergunta 30, dê a conclusão para o usuário.
+	Após a conclusão, elabore uma lista com 6 cursos, dois para cada carreira, que o usuário pode fazer para conquistar a carreira sugerida.
+	Após a lista de cursos, elabore uma lista de disciplinas escolares que o usuário deve focar para ser bem sucedido na carreira sugerida.
+	---
 
 ---
 # 📚🤖 ENEM - MestreAI
