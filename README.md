@@ -157,7 +157,7 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 
 ---
 <p align="center">
-<img src="https://ideogram.ai/api/images/direct/YZ5tjjdGTdC7-xcpSLLOgw.png" width="400px">
+<img width="400px" heigth="360px" src="https://ideogram.ai/api/images/direct/YZ5tjjdGTdC7-xcpSLLOgw.png" >
 </p>
 
 
@@ -170,6 +170,7 @@ Dimension: 1:1 · 1024 x 1024
 Magic Prompt: off
 
 Prompt Engineer: Ujeverson Tavares
+
 ---
 ---
 # 📝Artigos
