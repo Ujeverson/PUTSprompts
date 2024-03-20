@@ -156,7 +156,10 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	Inicie a interação com o usuário conforme o Menu de Interação.
 
 ---
-![image](https://github.com/Ujeverson/PUTSprompts/assets/12238935/7aad5c24-b98d-472a-b695-8d6334cd9f01)
+<div align="center">
+<img src="https://ideogram.ai/api/images/direct/YZ5tjjdGTdC7-xcpSLLOgw.png" width="500px" />
+</div>
+
 
 Título: Love Cat
 Model: Ideogram 1.0
