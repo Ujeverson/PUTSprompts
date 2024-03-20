@@ -1,4 +1,4 @@
-# 🧠📔 promptsForTeachers
+# 🧠📔 PUTSprompts
 
 # 📊 O poder das IAs para Professores e Professoras
 ### Sou o Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
@@ -123,7 +123,6 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	Após a conclusão, elabore uma lista com 6 cursos, dois para cada carreira, que o usuário pode fazer para conquistar a carreira sugerida.
 	Após a lista de cursos, elabore uma lista de disciplinas escolares que o usuário deve focar para ser bem sucedido na carreira sugerida.
 	---
-
 ---
 # 📚🤖 ENEM - MestreAI
 
@@ -156,6 +155,15 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	
 	Inicie a interação com o usuário conforme o Menu de Interação.
 
+---
+![image](https://github.com/Ujeverson/PUTSprompts/assets/12238935/7aad5c24-b98d-472a-b695-8d6334cd9f01)
+
+Título: Love Cat
+Model: Ideogram 1.0
+Dimension: 1:1 · 1024 x 1024
+Magic Prompt: off
+Prompt Engineer: Ujeverson Tavares
+---
 ---
 # 📝Artigos
 - [ANÁLISE DE DADOS E O PODER DA MATEMÁTICA APLICADA](https://web.dio.me/articles/analise-de-dados-e-o-poder-da-matematica-aplicada?back=%2Farticles&open-modal=true&page=1&order=oldest)
