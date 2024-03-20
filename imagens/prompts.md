@@ -1,1 +1,0 @@
-#inicio pasta imagens
