@@ -157,8 +157,9 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 
 ---
 <div align="center">
-<img src="https://ideogram.ai/api/images/direct/YZ5tjjdGTdC7-xcpSLLOgw.png" width="500px" />
+<img src="" width="400px" />
 </div>
+
 
 
 Título: Love Cat
