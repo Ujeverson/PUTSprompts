@@ -157,15 +157,19 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 
 ---
 <div align="center">
-<img src="" width="400px" />
+<img src="https://github.com/Ujeverson/PUTSprompts/issues/1#issue-2197273693" width="400px" />
 </div>
 
 
 
 Título: Love Cat
+
 Model: Ideogram 1.0
+
 Dimension: 1:1 · 1024 x 1024
+
 Magic Prompt: off
+
 Prompt Engineer: Ujeverson Tavares
 ---
 ---
