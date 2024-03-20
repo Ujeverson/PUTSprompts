@@ -156,10 +156,9 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	Inicie a interação com o usuário conforme o Menu de Interação.
 
 ---
-<div align="center">
-<img src="https://github.com/Ujeverson/PUTSprompts/issues/1#issue-2197273693" width="400px" />
-</div>
-
+<p align="center">
+<img src="https://ideogram.ai/api/images/direct/YZ5tjjdGTdC7-xcpSLLOgw.png" width="400px">
+</p>
 
 
 Título: Love Cat
