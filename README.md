@@ -156,23 +156,6 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	Inicie a interação com o usuário conforme o Menu de Interação.
 
 ---
-<p align="center">
-<img width="400px" heigth="360px" src="https://ideogram.ai/api/images/direct/YZ5tjjdGTdC7-xcpSLLOgw.png" >
-</p>
-
-
-Título: Love Cat
-
-Model: Ideogram 1.0
-
-Dimension: 1:1 · 1024 x 1024
-
-Magic Prompt: off
-
-Prompt Engineer: Ujeverson Tavares
-
----
----
 # 📝Artigos
 - [ANÁLISE DE DADOS E O PODER DA MATEMÁTICA APLICADA](https://web.dio.me/articles/analise-de-dados-e-o-poder-da-matematica-aplicada?back=%2Farticles&open-modal=true&page=1&order=oldest)
 
