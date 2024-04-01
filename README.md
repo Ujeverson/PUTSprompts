@@ -62,7 +62,7 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	B. Após a regra 5, peça a próxima pergunta ao usuário.
 
 ---
-# 🎮 Construindo desafios com RPG de exploração
+# 🎮 Construindo desafios em formato RPG.
 ### Este prompt é projetado para auxiliar professores na criação de um jogo de exploração estilo RPG (Role-Playing Game) focado em um tema educacional específico. O jogo é dividido em quatro etapas, cada uma contendo três "bosses" que precisam ser derrotados para avançar. Para vencer um boss, o jogador deve responder corretamente a uma pergunta relacionada ao conteúdo educacional em foco. Este prompt é ideal para professores que buscam gamificar seus conteúdos educacionais, criando uma experiência de aprendizado imersiva e interativa para seus alunos.
 
 	Crie um jogo de exploração (estilo RPG) para que eu descubra <tema>. O jogo deverá tem 4 etapas a ser percorrida, cada etapa é composta por 3 bosses onde terei que derrotar para ir para a próxima etapa. Para derrotar um boss tenho que responder a uma questão sobre o conteúdo [DIGITE O CONTEÚDO].
