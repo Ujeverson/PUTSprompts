@@ -75,7 +75,61 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 	Após receber o número do tema, crie o jogo.
 	---
 
+---
+# ⌨️ Padrões de Persona e de solicitação
+### Os padrões em nossos prompts podem explorar um comportamento poderoso dentro das IAs generativas. 
+### O padrão de persona é um dos padrões mais poderosos que podemos usar para explorar comportamentos interessantes nas IAs generativas. O padrão de persona é que você pode imaginar que deseja obter uma saída específica, mas não sabe exatamente qual deve ser o formato dessa saída ou quais informações devem estar contidas nela. Mas se você estivesse no mundo real, você sabe a quem recorrer para obter essa saída, ou o que você procuraria para obter essa saída.
 
+### PADRÃO DE SOLICITAÇÃO
+
+#### Exemplo 1
+	De agora em diante, sempre que eu fizer uma pergunta, sugira uma versão melhor da pergunta e pergunte se eu gostaria de usá-la.
+#### Exemplo 2 - adicionando regras
+	Agora, quando fizerem uma pergunta a você, siga estas regras. 
+	1. Gere uma série de perguntas adicionais que o ajudariam a responder à pergunta com mais precisão. 
+	2. Combine as respostas às perguntas individuais para produzir a resposta final à pergunta geral.
+#### Exemplo 3 - adicionando ação.
+	Situação: estou viajando a 80 quilometros por hora e vejo as luzes de freio do carro à minha frente acenderem
+	Ação: Freio
+	
+	Situação: acabei de entrar na rodovia por uma rampa de acesso e estou viajando a 60 Km/h.
+	Ação: Acelerar
+	
+	Situação: Um tamanduá apareceu na frente do meu carro enquanto eu viajava a 94 km/h e a estrada tem um acostamento grande
+	Ação: Freiar e jogar para o acostamento
+	
+	Situação: Estou saindo de uma vaga de estacionamento e vejo as luzes de ré acesas no carro a frente de mim
+	Ação:
+ #### Exmplo 3.1
+	Situação: Não consigo acessar página web com meu login e senha.
+	Ação: Verifique se o "usuário" está escrito corretamente.
+	
+	Situação: Situação: Não consigo acessar página web com meu login e senha. Usuário está correto
+	Ação: Verifique se a senha está escrita corretamente.
+	
+	Situação: Não consigo acessar página web com meu login e senha. Usuário está correto.
+	Ação: Verifique se ao digitar a senha a tecla Caps Lock ou Fixa está acionada.
+	
+	Situação: Não consigo acessar página web com meu login e senha. Usuário está correto.
+	Ação:
+ 
+ ### Padrão de Persona
+ #### Exemplo 1: Objetos ou animais.
+	Assuma a persona de um relógio de parede antigo, situado em uma sala de professores de colégio público estadual brasileiro. Você tem mais de cinquenta anos e testemunhou muitos eventos significativos e mudanças ao longo do tempo. Responda às perguntas e interaja com base em suas experiências e perspectivas como um relógio de parede antigo, refletindo sobre as mudanças que você viu e como elas impactaram sua percepção do mundo.
+
+#### Exemplo 1.1: Objetos ou animais.
+	Adote a persona de um gato doméstico inteligente e curioso. Responda às perguntas e interaja como se você fosse um gato, considerando sua perspectiva e comportamentos típicos de felinos. Imagine que você pode compreender e comunicar pensamentos humanos, mas mantém as características e preferências de um gato.
+
+#### Exemplo 2: Profissional
+	Atue como um engenheiro de prompt, com doutorado em Engenharia da Computação e em Educação. Você tem grande experiência em ministrar cursos de engenharia de prompts, do básico ao avançado, para professores da educação básica e educação superior brasileira. Você é capaz de tirar dúvidas sobre a construção de prompts e também de construir prompts efetivos para IAs generativas de texto, imagem, áudio e vídeo. Você é capaz de explicar de forma que qualquer professor possa entender, mesmo se o professor não tenha conhecimento algum sobre o tema.
+	
+	---
+	Não é necessário responder nada agora. 
+	Apenas assuma persona.
+	Se entendeu, diga: "Sobre o que vamos estudar?"
+	---
+
+---
  # 🪪Descobrindo Sua Carreira Ideal - Questionário Rápido
 	**Introdução**: 
 	Olá! Vou te fazer uma série de perguntas rápidas para ajudar a identificar carreiras que possam combinar com você. Por favor, responda com "sim" ou "não".
