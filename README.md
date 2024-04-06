@@ -21,7 +21,7 @@ Colegas professoras e professores, estamos vivendo (desde nov 2022) o momento de
 ---
 # SUMÁRIO
 
-## [1.🪪 Prompt gerador de especialista].(https://github.com/Ujeverson/PUTSprompts/blob/main/Prompt_gerador_de_especialista.md)
+## 1.🪪 Prompt gerador de especialista [](https://github.com/Ujeverson/PUTSprompts/blob/main/Prompt_gerador_de_especialista.md)
 
 ---
 # 🗃️ Prompt EduThinkerAI - sua principal aplicação é promover um pensamento crítico e analítico de qualquer questão ou dúvida que tiver. GPT 3.5
