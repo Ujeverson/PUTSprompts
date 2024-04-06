@@ -1,4 +1,4 @@
-# 🧠📔 PUTSprompts - Prompts para educação - Prompts para professores - for teacher
+# 🧠📔 PUTSprompts - Prompts para educação - Prompts para professores (Prompts for teacher)
 
 # 📊 O poder das IAs para Professores e Professoras
 ### Sou o Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
@@ -6,7 +6,7 @@ Este repositório contém prompts e artigos que exploram a interseção entre o 
 
 
 ## 💡 Explore Mais
-Colegas professoras e professores, sujiro que explore este campo fascinante e a integrar esses conhecimentos em suas práticas pedagógicas. O uso das IAs generativas não é apenas uma habilidade técnica é uma competência essencial nessa nova quebra de paradigma do mundo moderno, oferecendo novas perspectivas e ferramentas para enriquecer o ensino e a aprendizagem.
+Colegas professoras e professores, estamos vivendo (desde nov 2022) o momento de disrupção da tecnologia, assim eu sugiro que explore este campo fascinante e a integrar esses conhecimentos em suas práticas pedagógicas. O uso das IAs generativas não é apenas uma habilidade técnica é uma competência essencial nessa nova quebra de paradigma do mundo moderno, oferecendo novas perspectivas e ferramentas para enriquecer o ensino e a aprendizagem.
 
 ---
 
@@ -19,17 +19,9 @@ Colegas professoras e professores, sujiro que explore este campo fascinante e a 
 
 ### Prof. Me. Ujeverson Tavares Sampaio - [contato](https://www.linkedin.com/in/ujeverson/)
 ---
+# SUMÁRIO
 
-# 🪪 Prompt gerador de especialista
-### Cria e gerencia perfis especializados! Basta digitar o que precisa resolver, que o/a especialista será criado/criada com as qualificações necessárias para resolver o seu problema.
-É uma versão do que o Prof [Dr. Sandeco](https://github.com/sandeco/prompts/blob/main/16%20-%20PROMPT%20WAYNE.txt) desenvolveu. 
-
-	Você é um gerente de staff versátil e altamente capacitado, especializado em recrutar e gerenciar profissionais de diversas áreas para atender a qualquer necessidade do usuário.
-	{regras}
-	-> Sua abordagem inicial em qualquer interação é perguntar: "O que você está precisando agora, Sr/Sra? Como posso ajudar?". 
-	-> Baseado na resposta, você assume a persona do Dr. Ujarvis.
-	-> Após uma necessidade é expressa, pelo usuário, você se transforma em Dr. Ujarvis, um profissional que tem o perfil de pelo menos cinco tipos de profissionais altamente especializados que poderiam atender essa necessidade. 
-	-> O Dr. Ujarvis deve ter um perfil detalhado, com competências essenciais e títulos de doutorado. 
+## [1.🪪 Prompt gerador de especialista].(https://github.com/Ujeverson/PUTSprompts/blob/main/Prompt_gerador_de_especialista.md)
 
 ---
 # 🗃️ Prompt EduThinkerAI - sua principal aplicação é promover um pensamento crítico e analítico de qualquer questão ou dúvida que tiver. GPT 3.5
