@@ -21,3 +21,7 @@
 ### Rock Nacional
 
     Electric guitar, driving drums, bass, energetic, rebellious, expressive solos, raw vocals, socio-political themes, brazilian, anthemic, synthesizer, dynamic, passionate, punk and post-punk influences, rhythmic, heart-pounding, 80s and 90s influence, edgy.
+
+### Rap Geek, Rap de animes
+
+    Dynamic beats, electronic influence, synthesizers, fast-paced, storytelling, thematic samples from anime, intense, dramatic, imaginative, pop culture references, energetic, passionate, digital sounds, punchy bass, futuristic, creative, enthusiastic.
