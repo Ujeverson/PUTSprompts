@@ -14,3 +14,6 @@
 
 ### Funk
         Heavy beat, 808 drum machine, repetitive, synthesizer, fast-paced, MC vocals, danceable, Miami Bass influence, gritty, urban, provocative, party atmosphere, energetic, simple melodies, street culture, carioca, percussive, electronic, bold.
+
+### Gospel
+        Brasilian, Soulful choir, organ, uplifting, piano, drums, bass guitar, passionate, rhythmic, spiritual, powerful, inspirational, harmonious, dynamic, clapping, gospel blues influence, expressive, emotional, grand, reflective, hopeful.
