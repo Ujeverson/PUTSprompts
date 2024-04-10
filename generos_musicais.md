@@ -17,3 +17,7 @@
 
 ### Gospel
         Brasilian, Soulful choir, organ, uplifting, piano, drums, bass guitar, passionate, rhythmic, spiritual, powerful, inspirational, harmonious, dynamic, clapping, gospel blues influence, expressive, emotional, grand, reflective, hopeful.
+
+### Rock Nacional
+
+    Electric guitar, driving drums, bass, energetic, rebellious, expressive solos, raw vocals, socio-political themes, brazilian, anthemic, synthesizer, dynamic, passionate, punk and post-punk influences, rhythmic, heart-pounding, 80s and 90s influence, edgy.
