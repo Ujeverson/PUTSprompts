@@ -11,3 +11,6 @@
 
 ### Samba
         Percussive, tamborim, surdo, energetic, vibrant, cavaquinho, rhythmic complexity, syncopated, joyful, communal, danceable, cultural, expressive, fast-paced, shakers, pandeiro, celebration, lively, brass instruments, traditional, call and response.
+
+### Funk
+        Heavy beat, 808 drum machine, repetitive, synthesizer, fast-paced, MC vocals, danceable, Miami Bass influence, gritty, urban, provocative, party atmosphere, energetic, simple melodies, street culture, carioca, percussive, electronic, bold.
