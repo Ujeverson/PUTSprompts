@@ -1,4 +1,4 @@
-#🎶 Prompts de Gerneros Musicais
+# 🎶Prompts de Gerneros Musicais
 
 ### Rap e Hip Hop
     Boom bap, 808 drums, funk carioca influence, 
