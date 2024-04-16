@@ -23,6 +23,7 @@ Colegas professoras e professores, estamos vivendo (desde nov 2022) o momento de
 ## 1.🪪 [Prompt gerador de especialista](https://github.com/Ujeverson/PUTSprompts/blob/main/Prompt_gerador_de_especialista.md)
 ## 2.🎙️🎤 [Prompt Rapper](https://github.com/Ujeverson/PUTSprompts/blob/main/prompt_rapper.md)
 ## 3. 🎶[Prompts de Gerneros Musicais](https://github.com/Ujeverson/PUTSprompts/blob/main/generos_musicais.md)
+## 4. 📚 [ENEM MESTRE AI](https://github.com/Ujeverson/PUTSprompts/blob/main/Prompt%20criador%20de%20quest%C3%B5es%20ENEM.md)
 ---
 # 🗃️ Prompt EduThinkerAI - sua principal aplicação é promover um pensamento crítico e analítico de qualquer questão ou dúvida que tiver. GPT 3.5
 
