@@ -10,13 +10,13 @@
     romantic, nostalgic, simple melodies, harmonica, slow to mid-tempo, folk influences, heart-warming, soulful, rhythmic, campfire vibe, harmonious vocals. Brasileiro e Brasil.
 
 ### Samba
-        Percussive, tamborim, surdo, energetic, vibrant, cavaquinho, rhythmic complexity, syncopated, joyful, communal, danceable, cultural, expressive, fast-paced, shakers, pandeiro, celebration, lively, brass instruments, traditional, call and response.
+    Percussive, tamborim, surdo, energetic, vibrant, cavaquinho, rhythmic complexity, syncopated, joyful, communal, danceable, cultural, expressive, fast-paced, shakers, pandeiro, celebration, lively, brass instruments, traditional, call and response.
 
 ### Funk
-        Heavy beat, 808 drum machine, repetitive, synthesizer, fast-paced, MC vocals, danceable, Miami Bass influence, gritty, urban, provocative, party atmosphere, energetic, simple melodies, street culture, carioca, percussive, electronic, bold.
+    Heavy beat, 808 drum machine, repetitive, synthesizer, fast-paced, MC vocals, danceable, Miami Bass influence, gritty, urban, provocative, party atmosphere, energetic, simple melodies, street culture, carioca, percussive, electronic, bold.
 
 ### Gospel
-        Brasilian, Soulful choir, organ, uplifting, piano, drums, bass guitar, passionate, rhythmic, spiritual, powerful, inspirational, harmonious, dynamic, clapping, gospel blues influence, expressive, emotional, grand, reflective, hopeful.
+    Brasilian, Soulful choir, organ, uplifting, piano, drums, bass guitar, passionate, rhythmic, spiritual, powerful, inspirational, harmonious, dynamic, clapping, gospel blues influence, expressive, emotional, grand, reflective, hopeful.
 
 ### Rock Nacional
 
@@ -25,3 +25,6 @@
 ### Rap Geek, Rap de animes
 
     Dynamic beats, electronic influence, synthesizers, fast-paced, storytelling, thematic samples from anime, intense, dramatic, imaginative, pop culture references, energetic, passionate, digital sounds, punchy bass, futuristic, creative, enthusiastic.
+
+### Trap
+    808 bass, hi-hats, snappy snares, slow to mid-tempo, atmospheric synths, minimalistic, dark, moody, auto-tune effects, street-inspired lyrics, gritty, futuristic, thick basslines, choppy flows, Brasileiro, brooding, urban, repetitive hooks.
