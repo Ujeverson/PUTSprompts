@@ -25,6 +25,7 @@ Colegas professoras e professores, estamos vivendo (desde nov 2022) o momento de
 ## 3. 🎶[Prompts de Gerneros Musicais](https://github.com/Ujeverson/PUTSprompts/blob/main/generos_musicais.md)
 ## 4. 📚 [ENEM MESTRE AI](https://github.com/Ujeverson/PUTSprompts/blob/main/Prompt%20criador%20de%20quest%C3%B5es%20ENEM.md)
 ## 5. 🎮 [Construindo desafios em formato RPG](https://github.com/Ujeverson/PUTSprompts/blob/main/%F0%9F%8E%AE%20Construindo%20desafios%20em%20formato%20RPG.md)
+## 6. 📝[Criar plano de aula](https://github.com/Ujeverson/PUTSprompts/blob/main/%F0%9F%93%9DCriar%20plano%20de%20aula.md)
 ---
 # 🗃️ Prompt EduThinkerAI - sua principal aplicação é promover um pensamento crítico e analítico de qualquer questão ou dúvida que tiver. GPT 3.5
 
