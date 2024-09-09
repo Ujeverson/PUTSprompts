@@ -1,4 +1,4 @@
-## Porcentagem
+## 💯Porcentagem
 ### Como funciona:
 #### Este prompt de IA é projetado para guiar professores na criação de um programa de estudo orientado focado no tópico de porcentagem em Matemática. Ele pode ajudar a personalizar materiais de estudo, gerar problemas de prática variados e adaptar desafios ao nível de compreensão dos estudantes.
 
