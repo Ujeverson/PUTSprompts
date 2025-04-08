@@ -4,7 +4,8 @@
     Boom bap, 808 drums, funk carioca influence, 
     aggressive bass, scratching, urban, gritty, street, rhythmic, energetic, raw, 
     samples from Brazilian music, social commentary, syncopated, 90-110 BPM. Brasil
-
+### Sertanejo Universitário: 
+    Jovem, romântico, animado, violão, refrão chiclete, balada, sofrência leve, dupla vocal, festa, coração, moda de viola pop, hits, amizade, cotidiano, carro, amor.
 ### Sertanejo e Modão
     Acoustic guitar, viola caipira, accordion, emotive, traditional, storytelling, rural themes, 
     romantic, nostalgic, simple melodies, harmonica, slow to mid-tempo, folk influences, heart-warming, soulful, rhythmic, campfire vibe, harmonious vocals. Brasileiro e Brasil.
@@ -27,4 +28,4 @@
     Dynamic beats, electronic influence, synthesizers, fast-paced, storytelling, thematic samples from anime, intense, dramatic, imaginative, pop culture references, energetic, passionate, digital sounds, punchy bass, futuristic, creative, enthusiastic.
 
 ### Trap
-    808 bass, hi-hats, snappy snares, slow to mid-tempo, atmospheric synths, minimalistic, dark, moody, auto-tune effects, street-inspired lyrics, gritty, futuristic, thick basslines, choppy flows, Brasileiro, brooding, urban, repetitive hooks.
+    Rimas ágeis, beat pesado, 808, urbano, autotune, atitude, lírica direta, bass marcante, street, flow, sombrio, loops, independência, ostentação, cultura, resistência, swag.
