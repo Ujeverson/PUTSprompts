@@ -25,3 +25,6 @@
 ### Trap
     Rimas ágeis, 808, beat pesado, autotune, urbano, flow marcante, ostentação, loops, som sombrio, swag, atitude, resistência, lírica direta, cultura de rua, independência.
 
+### FunkNejo
+    Violão sertanejo leve, build-up animado, drop com grave de funk estourado, palmas, batida dançante, vibe feminina, BPM 130, clima de festa e sofrência animada.
+
