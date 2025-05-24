@@ -1,31 +1,27 @@
 # 🎶Prompts de Gerneros Musicais
 
 ### Rap e Hip Hop
-    Boom bap, 808 drums, funk carioca influence, 
-    aggressive bass, scratching, urban, gritty, street, rhythmic, energetic, raw, 
-    samples from Brazilian music, social commentary, syncopated, 90-110 BPM. Brasil
+    Boom bap, 808, grave agressivo, batida crua, funk carioca, scratch, urbano, rimas sociais, amostras BR, ritmo forte, sincopado, 90–110 BPM, cultura de rua, resistência.
 ### Sertanejo Universitário: 
-    Jovem, romântico, animado, violão, refrão chiclete, balada, sofrência leve, dupla vocal, festa, coração, moda de viola pop, hits, amizade, cotidiano, carro, amor.
+    Jovem, romântico, animado, refrão chiclete, violão, balada, sofrência leve, dupla vocal, hits, cotidiano, amizade, carro, festa, coração, pop rural.
 ### Sertanejo e Modão
-    Acoustic guitar, viola caipira, accordion, emotive, traditional, storytelling, rural themes, 
-    romantic, nostalgic, simple melodies, harmonica, slow to mid-tempo, folk influences, heart-warming, soulful, rhythmic, campfire vibe, harmonious vocals. Brasileiro e Brasil.
+    Viola, sanfona, romântico, nostálgico, histórias rurais, melodias simples, emotivo, voz harmoniosa, raiz, ritmo lento, folk BR, sentimento, alma, tradição, campo.
 
 ### Samba
-    Percussive, tamborim, surdo, energetic, vibrant, cavaquinho, rhythmic complexity, syncopated, joyful, communal, danceable, cultural, expressive, fast-paced, shakers, pandeiro, celebration, lively, brass instruments, traditional, call and response.
+    Percussivo, tamborim, surdo, cavaquinho, pandeiro, sincopado, alegre, vibrante, comunitário, dançante, cultural, metais, rápido, tradicional, festeiro, responsivo.
 
 ### Funk
-    Heavy beat, 808 drum machine, repetitive, synthesizer, fast-paced, MC vocals, danceable, Miami Bass influence, gritty, urban, provocative, party atmosphere, energetic, simple melodies, street culture, carioca, percussive, electronic, bold.
+    Batida pesada, 808, repetitivo, sintetizador, MC, dançante, rápido, ousado, urbano, provocante, carioca, eletrônico, rua, festa, percussivo, cultura de baile.
 
 ### Gospel
-    Brasilian, Soulful choir, organ, uplifting, piano, drums, bass guitar, passionate, rhythmic, spiritual, powerful, inspirational, harmonious, dynamic, clapping, gospel blues influence, expressive, emotional, grand, reflective, hopeful.
+    Coral, piano, órgão, bateria, baixo, palmas, espiritual, emotivo, inspirador, harmônico, expressivo, poderoso, reflexivo, soul, esperança, dinâmico, fé, louvor.
 
 ### Rock Nacional
-
-    Electric guitar, driving drums, bass, energetic, rebellious, expressive solos, raw vocals, socio-political themes, brazilian, anthemic, synthesizer, dynamic, passionate, punk and post-punk influences, rhythmic, heart-pounding, 80s and 90s influence, edgy.
+    Guitarra elétrica, bateria marcante, baixo, vocal cru, político, anos 80/90, Brasil, rebelde, pulsante, dinâmico, synth, solo expressivo, punk, paixão, atitude.
 
 ### Rap Geek, Rap de animes
-
-    Dynamic beats, electronic influence, synthesizers, fast-paced, storytelling, thematic samples from anime, intense, dramatic, imaginative, pop culture references, energetic, passionate, digital sounds, punchy bass, futuristic, creative, enthusiastic.
+    Beats dinâmicos, synth, rápido, narrativo, amostras de anime, intenso, criativo, bass marcante, dramático, futurista, digital, pop culture, entusiasta, imaginativo, nerd.
 
 ### Trap
-    Rimas ágeis, beat pesado, 808, urbano, autotune, atitude, lírica direta, bass marcante, street, flow, sombrio, loops, independência, ostentação, cultura, resistência, swag.
+    Rimas ágeis, 808, beat pesado, autotune, urbano, flow marcante, ostentação, loops, som sombrio, swag, atitude, resistência, lírica direta, cultura de rua, independência.
+
