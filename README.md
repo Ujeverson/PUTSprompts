@@ -1,8 +1,8 @@
 # PUTSprompts
 
-📚 **Repositório de Prompts para Educadores**
+📚 **Repositório de Prompts do Prof Ms Ujeverson**
 
-Este repositório contém uma coleção de prompts desenvolvidos para auxiliar professores e professoras na criação de conteúdos educativos inovadores e engajadores. Os prompts aqui apresentados são ferramentas para estimular a criatividade, facilitar o planejamento de aulas e enriquecer a experiência de aprendizagem dos alunos.
+Este repositório contém uma coleção de prompts desenvolvidos para auxiliar profissionais de todas as áreas na criação de conteúdos inovadores e engajadores. Os prompts aqui apresentados são ferramentas para estimular a criatividade, facilitar o planejamento e enriquecer a experiência de uso.
 
 ## 📌 Sumário
 
