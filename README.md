@@ -37,21 +37,21 @@ O **PUTSprompts** é uma iniciativa para fornecer ferramentas práticas que inte
 
 ## 📁 Estrutura do Repositório
 
-PUTSprompts/
-├── Criador_de_Prompts.md
-├── Padrão_de_Prompt_para_Geração_de_Atividades.md
-├── Prompt_Criador_de_Questões_ENEM.md
-├── Prompt_Criador_de_Itens.md
-├── Prompt_Gerador_de_Especialista.md
-├── Prompt_Rapper.md
-├── Prompt_Gêneros_Musicais.md
-├── Prompt_Criar_Plano_de_Aula.md
-├── Prompt_EduThinkerAI.md
-├── Artigos/
-│ ├── Análise_de_Dados_e_o_Poder_da_Matemática_Aplicada.md
-│ └── Matemática_para_Análise_de_Dados_com_Python.md
-└── Podcast/
-└── Papo_Plugado_Bytes_de_Conhecimento.md
+      PUTSprompts/
+      ├── Criador_de_Prompts.md
+      ├── Padrão_de_Prompt_para_Geração_de_Atividades.md
+      ├── Prompt_Criador_de_Questões_ENEM.md
+      ├── Prompt_Criador_de_Itens.md
+      ├── Prompt_Gerador_de_Especialista.md
+      ├── Prompt_Rapper.md
+      ├── Prompt_Gêneros_Musicais.md
+      ├── Prompt_Criar_Plano_de_Aula.md
+      ├── Prompt_EduThinkerAI.md
+      ├── Artigos/
+      │ ├── Análise_de_Dados_e_o_Poder_da_Matemática_Aplicada.md
+      │ └── Matemática_para_Análise_de_Dados_com_Python.md
+      └── Podcast/
+      └── Papo_Plugado_Bytes_de_Conhecimento.md
 
 
 ## 🧩 Prompts Disponíveis
