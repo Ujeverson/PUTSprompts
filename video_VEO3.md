@@ -1,0 +1,5 @@
+### Olá, pessoal!
+
+Este repositório contém o roteiro de uma apresentação em estilo TEDx sobre o impacto da Inteligência Artificial no dia a dia dos profissionais da educação. O material inclui a cena, o roteiro do apresentador e as ações de câmera, criando uma visão completa da palestra que explora como a IA pode ser uma ferramenta de transformação dentro e fora da sala de aula.
+
+    SCENE: Low lights. Large TEDx-style stage, event logo prominently displayed. A Brazilian presenter enters smiling, confident, wearing elegantly dressed, and holding a microphone. SCRIPT: The stage lights gently brighten, revealing the presenter standing at the center. She addresses the audience of teachers directly, making eye contact and speaking with energy and warmth. ACTIONS: Slow camera zoom-in on the presenter. Audience silhouettes can be seen, building a sense of anticipation. Subtle instrumental background music begins. NARRATION (in Portuguese): “Olá, profissionais! Sejam todos muito bem-vindos. Já parou para pensar em como a Inteligência Artificial pode transformar seu dia a dia em sua profissão e além dela?" --- no subtitles
