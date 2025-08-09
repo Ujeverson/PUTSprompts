@@ -27,4 +27,6 @@
 
 ### FunkNejo
     Violão sertanejo leve, build-up animado, drop com grave de funk estourado, palmas, batida dançante, vibe feminina, BPM 130, clima de festa e sofrência animada.
+### Música Infantil
+    Alegre, lúdica, educativa, simples, melódica, repetitiva, colorida, interativa, sons de bichos, instrumentos leves, cantigas, brincadeiras, ritmo suave, imaginativa, divertida.
 
