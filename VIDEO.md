@@ -102,3 +102,38 @@ Ex: Inspirar educadores a explorarem a inteligência artificial com confiança.
 Este prompt contém o roteiro de uma apresentação em estilo TEDx sobre o impacto da Inteligência Artificial no dia a dia de qualquer profissional. O material inclui a cena, o roteiro do apresentador e as ações de câmera, criando uma visão completa da palestra que explora como a IA pode ser uma ferramenta de transformação dentro e fora da sala de aula.
 
     SCENE: Low lights. Large TEDx-style stage, event logo prominently displayed. A Brazilian presenter enters smiling, confident, wearing elegantly dressed, and holding a microphone. SCRIPT: The stage lights gently brighten, revealing the presenter standing at the center. She addresses the audience of teachers directly, making eye contact and speaking with energy and warmth. ACTIONS: Slow camera zoom-in on the presenter. Audience silhouettes can be seen, building a sense of anticipation. Subtle instrumental background music begins. NARRATION (in Portuguese): “Olá, profissionais! Sejam todos muito bem-vindos. Já parou para pensar em como a Inteligência Artificial pode transformar a sua profissão e além dela?" --- no subtitles
+
+### 2. Prompt - EPI
+        **SCENE:**  
+    Um galpão logístico bem iluminado com luz natural suave. O espaço é limpo, organizado, com fundo neutro e tons industriais. O ambiente transmite leveza e realismo. A paleta de cores destaca amarelo e azul nos EPIs usados pelos personagens. O estilo visual é realista e humano. A trilha sonora instrumental é suave e inspiradora. Sons ambientes como passos no chão, encaixe de EPIs e ruídos leves de ferramentas reforçam o realismo.
+    
+    ---
+    
+    **SCRIPT:**  
+    Três colaboradores se preparam para iniciar o trabalho:  
+    - uma mulher branca, operadora de máquina,  
+    - um técnico experiente negro,  
+    - um jovem aprendiz.
+    
+    A mulher está com todos os EPIs corretamente colocados e se posiciona no centro da cena, olhando diretamente para a câmera. Ela fala de forma segura e acolhedora. Enquanto ela fala, a câmera exibe closes mostrando os EPIs sendo colocados: capacete, óculos, luvas.
+    
+    Logo após, o técnico percebe que o jovem aprendiz está sem os óculos de proteção. Ele o corrige de forma gentil. O jovem sorri, agradece e coloca os óculos, demonstrando cuidado e respeito.
+    
+    A cena final mostra os três colaboradores caminhando juntos pelo galpão, em direção ao início do turno.
+    
+    No final, a logo da empresa aparece em fade-out ao centro da tela: **PUTS - LOG**.
+    
+    ---
+    
+    **ACTIONS:**  
+    - Operadora coloca o EPI e fala diretamente com a câmera.  
+    - Close nos detalhes dos EPIs sendo ajustados.  
+    - O técnico corrige o aprendiz com gentileza.  
+    - O aprendiz responde com um sorriso, coloca os óculos.  
+    - Os três caminham lado a lado pelo galpão.  
+    - Fade-out com a logo da empresa.
+    
+    ---
+    
+    **NARRATION (in Brazilian Portuguese):**  
+    “Segurança é nossa marca de excelência. Cada EPI usado com consciência protege vidas e fortalece a equipe que constrói resultados com responsabilidade e orgulho.”
