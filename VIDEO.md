@@ -53,7 +53,7 @@ Ex: Música instrumental sutil de fundo, criando expectativa.
 ### 9. Narração ou diálogo (NARRATION / VOICEOVER)
 #### Texto falado, idioma, tom da voz, se tem legenda ou não.
 Ex:
-- Narração (em português): “Olá, profissionais! Sejam todos muito bem-vindos...”
+- Narração (em português do Brasil): “Olá, profissionais! Sejam todos muito bem-vindos...”
 - Sem legendas
 
 ---
